@@ -1,4 +1,3 @@
-- 个人介绍
 
 - Rhino & Grasshopper
     - [常用插件](RhinoGrasshopper/Plugins/)
