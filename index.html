@@ -12,6 +12,15 @@
 </head>
 <body>
   <div id="app"></div>
+  <!-- For Emoji -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+
+  <!-- Add a Edit -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
+  
+  <!-- Easy to copy -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+
   <script>
     window.$docsify = {
       name: '',
@@ -19,9 +28,14 @@
       loadSidebar : true,
       coverpage : true,
       loadNavbar : true,
+      logo: './BlogIcon.png',
+      themeColor : "#1B1464",
+      autoHeader: true,
+      mergeNavbar: true,
+      notFoundPage: true,
     }
   </script>
-  <!-- Docsify v4 -->
+  <!-- Docsify -->
   <script src="//cdn.jsdelivr.net/npm/docsify"></script>
 </body>
 </html>
