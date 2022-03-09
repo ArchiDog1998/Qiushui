@@ -6,8 +6,9 @@
 
 # 下载
 
-[Food4Rhino](https://www.food4rhino.com/en/app/persistent-data-editor)
-[Package Manager](rhino://package/search?name=PersistentDataEditor)
+
+我们推荐优先使用[Package Manager](rhino://package/search?name=PersistentDataEditor)进行软件的下载。
+如果实有困难，可以使用[Food4Rhino](https://www.food4rhino.com/en/app/persistent-data-editor)进行瞎咋。
 
 **OneDrive**
 
@@ -26,3 +27,7 @@
 | 0.9.1 |  [Component Toolkit v0.9.1](https://stuzafueducn-my.sharepoint.com/personal/201704110219_stu_zafu_edu_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F201704110219%5Fstu%5Fzafu%5Fedu%5Fcn%2FDocuments%2FRhino%20Share%20Files%2F07%20Grasshopper%20Developments%20%E8%9A%B1%E8%9C%A2%E5%BC%80%E5%8F%91%2F%23%20%E9%A1%B9%E7%9B%AE%E6%A1%88%E4%BE%8B%2FPersistentDataEditor%2FYAK%2F0%2E9%2E1%2FComponentToolkit%2Egha&parent=%2Fpersonal%2F201704110219%5Fstu%5Fzafu%5Fedu%5Fcn%2FDocuments%2FRhino%20Share%20Files%2F07%20Grasshopper%20Developments%20%E8%9A%B1%E8%9C%A2%E5%BC%80%E5%8F%91%2F%23%20%E9%A1%B9%E7%9B%AE%E6%A1%88%E4%BE%8B%2FPersistentDataEditor%2FYAK%2F0%2E9%2E1) |
 | 0.9.0 |  [Component Toolkit v0.9.0](https://stuzafueducn-my.sharepoint.com/personal/201704110219_stu_zafu_edu_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F201704110219%5Fstu%5Fzafu%5Fedu%5Fcn%2FDocuments%2FRhino%20Share%20Files%2F07%20Grasshopper%20Developments%20%E8%9A%B1%E8%9C%A2%E5%BC%80%E5%8F%91%2F%23%20%E9%A1%B9%E7%9B%AE%E6%A1%88%E4%BE%8B%2FPersistentDataEditor%2FYAK%2F0%2E9%2E0%2FComponentToolkit%2Egha&parent=%2Fpersonal%2F201704110219%5Fstu%5Fzafu%5Fedu%5Fcn%2FDocuments%2FRhino%20Share%20Files%2F07%20Grasshopper%20Developments%20%E8%9A%B1%E8%9C%A2%E5%BC%80%E5%8F%91%2F%23%20%E9%A1%B9%E7%9B%AE%E6%A1%88%E4%BE%8B%2FPersistentDataEditor%2FYAK%2F0%2E9%2E0) |
 
+# 源码
+此插件遵循[MIT License](https://opensource.org/licenses/MIT)进行开源。
+你可以在[Github](https://github.com/ArchiDog1998/PersistentDataEditor)上查看到源代码，
+也可以在[One Drive](https://stuzafueducn-my.sharepoint.com/personal/201704110219_stu_zafu_edu_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F201704110219%5Fstu%5Fzafu%5Fedu%5Fcn%2FDocuments%2FRhino%20Share%20Files%2F07%20Grasshopper%20Developments%20%E8%9A%B1%E8%9C%A2%E5%BC%80%E5%8F%91%2F%23%20%E9%A1%B9%E7%9B%AE%E6%A1%88%E4%BE%8B%2FPersistentDataEditor)上查看源代码。 
