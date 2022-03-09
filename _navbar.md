@@ -1,5 +1,5 @@
 - [主页](/)
-- GH插件
+- [GH插件](my_plugins/Grasshopper/)
     - [PersistentDataEditor](my_plugins/Grasshopper/PersistentDataEditor/ "快速修改运算器中的内置数据。")
     - [QuickConnection](my_plugins/Grasshopper/QuickConnection/ "快速对运算器进行连线。")
     - [RichedWireType](my_plugins/Grasshopper/RichedWireType/ "修改连线的样式。")
