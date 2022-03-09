@@ -2,7 +2,7 @@
 
 # **Persistent Data Editor**
 
-- 我还是一个很可爱的小萌新！
+- 让更改Grasshopper中内置数据的速度更快！
 
 [![stars](https://badgen.net/github/stars/micromatch/micromatch)](https://github.com/ArchiDog1998/PersistentDataEditor)
 [![forks](https://badgen.net/github/forks/micromatch/micromatch)](https://github.com/ArchiDog1998/PersistentDataEditor)
