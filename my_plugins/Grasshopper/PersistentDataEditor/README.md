@@ -2,7 +2,6 @@
 
 可以提高效率
 
-![](PersistentDataEditor.png)
 
 
 # 下载
