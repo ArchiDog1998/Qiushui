@@ -65,9 +65,51 @@
             - QuadEdgeDataStructure
             - Topologic
             - WASP
-
+    - 图像管理
+        - Bitmap+
+        - Squid
 - 数学和算法
+    - 智能代理模拟
+        - PedSim
+        - Zebra
+    - 遗传算法
+        - Octopus
+        - Wallacei
+    - 机器学习
+        - Dodo
+        - Owl
+    - 动画与物理
+        - Animation
+        - Culebra
+        - FlexHopper
+    - 代码流
+        - Anemone
+        - Hoopsnake
+        - Hops
+        - Telepathy
+    - 数学与优化
+        - Design Space Exploration
+        - GeoDex
+        - Impala
+    - 单位转换
+        - Caterpillar
 - 管理
+    - Bubalus
+    - Legopod
 - 渲染
+    - Rhino Nature
+    - Enscape
+    - V-ray
 - 行业
 - 多功能
+    - GH_BITCASL
+    - Hare
+    - HDimension
+    - Heteroptera
+    - Human
+    - LunchBox
+    - Metahopper
+    - Pod
+    - Pufferfish
+    - Star
+    - Vipers
