@@ -48,4 +48,7 @@ https://raw.githubusercontent.com/ArchiDog1998/Dalamud_Plugins/main/pluginmaster
 - 📬 For a quick response please contact me by [Discord](https://discord.com/users/1007293294100877322).
 - 🗺️ I give NO support for my Grasshopper plugins.
 
+[![Discord](https://discordapp.com/api/guilds/1041530867526410361/embed.png?style=banner2)](https://discord.gg/m9CFSZVVBp)
+[![Discord](https://discordapp.com/api/guilds/1064448004498653245/embed.png?style=banner2)](https://discord.gg/4fECHunam9)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArchiDog1998&layout=compact&theme=dark)
