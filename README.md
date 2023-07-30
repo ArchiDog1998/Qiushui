@@ -42,8 +42,9 @@ https://raw.githubusercontent.com/ArchiDog1998/Dalamud_Plugins/main/pluginmaster
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ArchiDog1998&repo=Dalamud_Plugins&theme=dark)](https://github.com/ArchiDog1998/Dalamud_Plugins)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ArchiDog1998&repo=RotationSolver&theme=dark)](https://github.com/ArchiDog1998/RotationSolver)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ArchiDog1998&repo=FakeName&theme=dark)](https://github.com/ArchiDog1998/FakeName)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ArchiDog1998&repo=ActionTimelineEx&theme=dark)](https://github.com/ArchiDog1998/ActionTimelineEx)
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ArchiDog1998&repo=FakeName&theme=dark)](https://github.com/ArchiDog1998/FakeName)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ArchiDog1998&repo=XIVPainter&theme=dark)](https://github.com/ArchiDog1998/XIVPainter)
 
 ### Contact
