@@ -1,4 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ArchiDog1998&show_icons=true&count_private=true&theme=dark)
+![languages](https://raw.githubusercontent.com/jonacruz89/SAWARATSUKI.ServiceLogos/main/C%23/C%23.png)
 
 ### Hi there 👋
 I am an architectural design researcher with the superpower of programming. Here is a bit about me, my most popular projects, and how to get in touch with you.
@@ -24,3 +24,5 @@ I am an architectural design researcher with the superpower of programming. Here
 [![Discord](https://discordapp.com/api/guilds/1041530867526410361/embed.png?style=banner2)](https://discord.gg/m9CFSZVVBp)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArchiDog1998&layout=compact&theme=dark)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ArchiDog1998&show_icons=true&count_private=true&theme=dark)
