@@ -10,42 +10,16 @@ I am an architectural design researcher with the superpower of programming. Here
 - 🎮 I am a big fan of Japanese RPGs, especially [Final Fantasy XIV](https://www.finalfantasyxiv.com/) with 1 year of experience developing plugins for it.
 - 💖 I love complex things. I'm fascinated by procedural geometry, digital data design, and many other fields of knowledge and creativity.
 
- ### Featured projects 
- #### Rhino / Grasshopper
-Check on them in [Food 4 Rhino](https://www.food4rhino.com/en/app/persistent-data-editor). And some of these plugins are **NO** longer supported!
+### Codes
 
- [![](https://github-readme-stats.vercel.app/api/pin/?username=ArchiDog1998&repo=SimpleGrasshopper&theme=dark)](https://github.com/ArchiDog1998/SimpleGrasshopper)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ArchiDog1998&repo=PersistentDataEditor&theme=dark)](https://github.com/ArchiDog1998/PersistentDataEditor)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ArchiDog1998&repo=QuickConnection&theme=dark)](https://github.com/ArchiDog1998/QuickConnection)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ArchiDog1998&repo=SuperHelper&theme=dark)](https://github.com/ArchiDog1998/SuperHelper)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ArchiDog1998&repo=SolutionAsync&theme=dark)](https://github.com/ArchiDog1998/SolutionAsync)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ArchiDog1998&repo=WiresRenderer&theme=dark)](https://github.com/ArchiDog1998/WiresRenderer)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ArchiDog1998&repo=CapsuleRenderer&theme=dark)](https://github.com/ArchiDog1998/CapsuleRenderer)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ArchiDog1998&repo=WatermarkPainter&theme=dark)](https://github.com/ArchiDog1998/WatermarkPainter)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ArchiDog1998&repo=RibbonTabIconsFixer&theme=dark)](https://github.com/ArchiDog1998/RibbonTabIconsFixer)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ArchiDog1998&repo=ArchiVision&theme=dark)](https://github.com/ArchiDog1998/ArchiVision)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ArchiDog1998&repo=PlaceHolderEditor&theme=dark)](https://github.com/ArchiDog1998/PlaceHolderEditor)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ArchiDog1998&repo=DiscordPresence&theme=dark)](https://github.com/ArchiDog1998/DiscordPresence)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ArchiDog1998&repo=RadiWind&theme=dark)](https://github.com/ArchiDog1998/RadiWind)
-
----
-
-#### Final Fantasy XIV
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ArchiDog1998&repo=RotationSolver&theme=dark)](https://github.com/ArchiDog1998/RotationSolver)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ArchiDog1998&repo=ActionTimelineEx&theme=dark)](https://github.com/ArchiDog1998/ActionTimelineEx)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ArchiDog1998&repo=FakeName&theme=dark)](https://github.com/ArchiDog1998/FakeName)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ArchiDog1998&repo=XIVPainter&theme=dark)](https://github.com/ArchiDog1998/XIVPainter)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArchiDog1998/ArchiDog1998/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArchiDog1998/ArchiDog1998/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArchiDog1998/ArchiDog1998/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### Contact
-- 📬 For a quick response please get in touch with me by [Discord](https://discord.com/users/1007293294100877322).
+- 📬 For a quick response please contact me by [Discord](https://discord.com/users/1007293294100877322).
 
 [![Discord](https://discordapp.com/api/guilds/1041530867526410361/embed.png?style=banner2)](https://discord.gg/m9CFSZVVBp)
 
